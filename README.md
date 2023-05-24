@@ -1,14 +1,16 @@
-# Getting Started with Create React App
+# Developing Web3 Wallet chrome extension like (MetaMask)
+This project was created with [Ishmael Destiny O](https://github.com/codewithdestiny).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# `Let's connect` 
+###[<i class="fa fa-brands fa-lg fa-twitter"></i> ](https://twitter.com/codewithdestiny) &nbsp;&nbsp;&nbsp;[<i class="fa fa-brands fa-lg fa-youtube"></i> ](https://youtube.com/codewithdestiny)  &nbsp;&nbsp;&nbsp;[<i class="fa fa-brands fa-lg fa-linkedin"></i> ](https://linkedin.in.com/codewithdestiny) 
 
-## Available Scripts
+##  Steps
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn add` & `yarn start `
 
-Runs the app in the development mode.\
+This cmds will install all the available dependencies in the package.json and Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
@@ -35,12 +37,21 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Instead, it will copy all the configuration files and the transitive dependencies `(webpack, Babel, ESLint, etc)` right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+  ***
+### Lets's get started...
++ TailwindCSS
+    > `TailwindCSS` is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override. Visit [Tailwind](https://www.material-tailwind.com/docs/react/what-is-tailwind-css)
++ Material-Tailwind
+    > `Material Tailwind` is already easy made tailwind UI used to fasten development
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
++ @types/chrome 
+    > `@types/chrome` is an npm package to manage chrome extension development. [@types/chrome](https://www.npmjs.com/package/@types/chrome)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+***
+### Developing chrome extension
+Now, that we have react app ready. Let's get into action.
