@@ -51,7 +51,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 + @types/chrome 
     > `@types/chrome` is an npm package to manage chrome extension development. [@types/chrome](https://www.npmjs.com/package/@types/chrome)
 
+Follow `TailwindCSS Official site ` & `Material-Tailwind` for a complete installation. 
 
 ***
 ### Developing chrome extension
+Next!
 Now, that we have react app ready. Let's get into action.
+Design the interface as follows
+![Multi-Crypto Wallet](./src/wallet-design.png)
+
